@@ -41,12 +41,12 @@ import math
 #
 #     button = browser.find_element(By.XPATH, "//button")
 #     button.click()
-#
-finally:
-    # ожидание чтобы визуально оценить результаты прохождения скрипта
-    time.sleep(10)
-    # закрываем браузер после всех манипуляций
-    browser.quit()
+# #
+# finally:
+#     # ожидание чтобы визуально оценить результаты прохождения скрипта
+#     time.sleep(10)
+#     # закрываем браузер после всех манипуляций
+#     browser.quit()
 
 
 # lesson 1 task 2
